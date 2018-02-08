@@ -1,0 +1,5 @@
+Area of Polygon1:  16
+Area of Polygon2:  24
+Area of Polygon3:  36
+Area of Polygon4:  17
+Area of Polygon5:  53
