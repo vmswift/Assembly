@@ -1,0 +1,13 @@
+Solution1:         14
+Solution2:         41
+Solution3:         18
+Solution4:        294
+Solution5:         28
+Solution6:       1000
+Solution7:        800
+Solution8:      -1100
+Solution9:        437
+Solution10:        721
+Solution11:        437
+Solution12:          0
+Solution13:  199998000
