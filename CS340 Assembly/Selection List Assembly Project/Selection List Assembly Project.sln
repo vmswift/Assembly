@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Selection List Assembly Project", "Assembly Project\Assembly Project.vcxproj", "{22E85FA7-2285-4FF8-99BA-06C3D8DB8948}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22E85FA7-2285-4FF8-99BA-06C3D8DB8948}.Debug|Win32.ActiveCfg = Debug|Win32
+		{22E85FA7-2285-4FF8-99BA-06C3D8DB8948}.Debug|Win32.Build.0 = Debug|Win32
+		{22E85FA7-2285-4FF8-99BA-06C3D8DB8948}.Release|Win32.ActiveCfg = Release|Win32
+		{22E85FA7-2285-4FF8-99BA-06C3D8DB8948}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
