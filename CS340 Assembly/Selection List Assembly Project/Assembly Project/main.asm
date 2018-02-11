@@ -1,15 +1,15 @@
 ;------------------------------------------------------------------;
-;Written by: John Knowles (jknowle2@my.athens.edu)			  ;
-;Class: CS340 Summer 2015								  ;
-;Date: July 14, 2015									  ;
+;Written by: John Knowles (jknowle2@my.athens.edu)		   ;
+;Class: CS340 Summer 2015					   ;
+;Date: July 14, 2015						   ;
 ;Assignment: List Selection Program                                ;
-;Description:											  ;
+;Description:						   	   ;
 ;   Write an assembly program to create subtotals and totals based ;
 ;on input and selections made by a user. Include an All Done       ;
 ;selection that will finalize all totals when the user presses     ;
-;enter or return on that selection.						  ;
+;enter or return on that selection.			           ;
 ;------------------------------------------------------------------;
-TITLE MASM Selection List Project				        (main.asm)
+TITLE MASM Selection List Project            (main.asm)
 
 INCLUDE Irvine32.inc
 .data
