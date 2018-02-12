@@ -40,7 +40,7 @@ main endp
 delay proc                                              ;
 ;Description:                                           ;
 ;   Waste time before rebooting. This helps to make the ; 
-;rebooting process seem seamless and natural.           ;
+;rebooting process feel seamless and natural.           ;
 ;-------------------------------------------------------;
     MOV     CX, 0FH                
     MOV     DX, 4240H
